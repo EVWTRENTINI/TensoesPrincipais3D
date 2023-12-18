@@ -4,7 +4,7 @@ Este repositório contém um script Python para a visualização de tensões pri
 
 ## Execução sem instalação
 
-Para executar este script remotamente acesse esse [link](https://trinket.io/python3/67dca2b63c) 
+Para executar este script remotamente acesse esse [link](https://trinket.io/python3/67dca2b63c) e clique no icone de play. 
 
 ## Utilização
 
