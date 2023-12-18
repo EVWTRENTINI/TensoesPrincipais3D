@@ -43,7 +43,7 @@ tensor = np.array([[-30.,  40.,   0.],
 
 ## Screenshots
 <p align="center">
-  <img src="Screenshots/Screenshot_1.jpg" width="800" title="Screenshot 1">
+  <img src="Screenshots/Screenshot_1.jpg" width="600" title="Screenshot 1">
 </p>
 
 ## Links
