@@ -38,8 +38,8 @@ pip install matplotlib numpy
 Para usar este script, basta clonar o repositório e executar o arquivo `Tensões principais.py`:
 
 ```bash
-git clone https://github.com/EVWTRENTINI/Tens-es-Principais
-cd Tens-es-Principais
+git clone https://github.com/EVWTRENTINI/TensoesPrincipais3D
+cd TensoesPrincipais3D
 python Tensões principais.py
 ```
 
