@@ -49,7 +49,7 @@ O script gerará um gráfico 3D que mostra um elemento com vetores representando
 
 ## Screenshots
 <p align="center">
-  <img src="Screenshots/Screenshot_1.jpg" width="600" title="Screenshot 1">
+  <img src="Screenshots/Screenshot_1.jpg" title="Screenshot 1">
 </p>
 
 ## Links
