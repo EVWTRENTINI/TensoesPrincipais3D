@@ -23,7 +23,7 @@ Para usar este script, basta clonar o repositório e executar o arquivo `Tensõe
 
 ```bash
 git clone https://github.com/EVWTRENTINI/Tens-es-Principais
-cd Tensoes_Principais
+cd Tens-es-Principais
 python Tensões principais.py
 ```
 
