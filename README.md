@@ -1,4 +1,4 @@
-# Análise de Tensões Principais em Elementos 3D
+# Análise de Tensões Principais no Estado Geral
 
 Este repositório contém um script Python para a visualização de tensões principais em um elemento 3D. O script calcula as tensões principais de um tensor de tensão dado e as exibe graficamente em um elemento rotacionado, representando as direções e magnitudes das tensões.
 
